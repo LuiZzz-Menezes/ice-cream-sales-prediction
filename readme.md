@@ -6,7 +6,7 @@
 Este projeto tem como objetivo prever a quantidade de vendas de sorvete com base em dados históricos de temperatura e preço. Utilizando **Python** com **Azure Machine Learning (Azure ML)** para construir e registrar um modelo de regressão.
 
   ## 📌 Pastas
-- **`data/`**: Contém o arquivo de dados `tabela_sorvete.xlsx`.
+- **`data/`**: Contém o arquivo de dados `Ice Cream.csv`.
 - **`inputs/`**: Contém as sentenças
 - **`imagens/`**: Contém as imagens do processo
 
